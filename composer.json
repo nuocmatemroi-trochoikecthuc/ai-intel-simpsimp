@@ -1,0 +1,19 @@
+{
+  "name": "eejay/ai-intel-simpsimp",
+  "description": "description",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "eejay",
+      "email": "hi@eejay.moe"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Eejay\\": "src/"
+    }
+  },
+  "require": {
+  }
+}
